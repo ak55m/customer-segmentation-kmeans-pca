@@ -55,4 +55,4 @@ This project segments customers into **4 distinct behavioral groups** using the 
 - `README.md` – this file
 
 ## 🚀 Try it on Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xnvlTda1-MGfjfRtkSw7cC9iwNHuadoz#scrollTo=wmsENrR5zYfc)
